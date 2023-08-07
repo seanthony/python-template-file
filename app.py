@@ -3,6 +3,7 @@ AUTHOR:     email
 PURPOSE:    text
 DATE:       DD Month YYYY
 """
+import logging
 
 
 def new_function():
